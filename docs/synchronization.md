@@ -1,4 +1,4 @@
-# Sychronization
+# Synchronization
 
 ![alpha](assets/alpha.svg)
 
